@@ -49,9 +49,9 @@ for i in range(n):
 ```*/
 
 ## Output:
-
+```
 <img width="1062" height="657" alt="Screenshot 2026-02-25 181700" src="https://github.com/user-attachments/assets/f02a2f40-a2c7-41ce-a211-b43ba7293e4c" />
-
+```
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
